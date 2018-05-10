@@ -9,6 +9,12 @@ Provider for Atom [linter-spell](https://atom.io/packages/linter-spell) package 
 
 Use the Atom Package Manager and search for "linter-spell-hcl", or run `apm install linter-spell-hcl` from command line interface.
 
+## Configuration
+
+The following settings are available:
+* **Check Comments** - When checked spell checking is enabled for comments
+* **Check Strings** - When checked spell checking is enabled for strings
+
 ## Prerequisites
 
 * [linter-spell](https://atom.io/packages/linter-spell)
