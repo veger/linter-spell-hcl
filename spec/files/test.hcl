@@ -9,6 +9,8 @@ abc {
   abc is still not a valid word
   */
 
+  # abc is not going to become valid ever...
+
   // abc is not a valid word (please stop using it!)
   key = <<EOF
 abc

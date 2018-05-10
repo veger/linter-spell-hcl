@@ -28,6 +28,14 @@
   "activationHooks": [
     "language-hcl:grammar-used"
   ],
+  "configSchema": {
+    "checkComments": {
+      "description": "Enable spell check in HCL comments.",
+      "type": "boolean",
+      "default": true,
+      "order": 1
+    }
+  },
   "providedServices": {
     "linter-spell-grammar": {
       "versions": {
