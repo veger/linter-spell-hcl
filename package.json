@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-hcl",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "HCL spell checking using linter-spell",
   "keywords": [
     "hcl",
